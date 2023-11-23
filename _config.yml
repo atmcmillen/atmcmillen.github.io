@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aaron McMillen"
+  name             : "Aaron (AT) McMillen"
   avatar           : "profile.png"
   bio              : "Mechanical Engineer | Materials Testing | Additive Manufacturing"
   location         : "Houston, Texas"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "aaron.t.mcmillen59@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Aaron-Mcmillen-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/aaronmcmillen/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-9437-0005"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
